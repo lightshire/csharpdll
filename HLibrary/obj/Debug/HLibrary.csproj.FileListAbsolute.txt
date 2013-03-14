@@ -1,0 +1,20 @@
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\HLibrary.dll
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\HLibrary.pdb
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\Iesi.Collections.dll
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\NHibernate.dll
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\Iesi.Collections.pdb
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\Iesi.Collections.xml
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\NHibernate.pdb
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\bin\Debug\NHibernate.xml
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\obj\Debug\HLibrary.dll
+C:\Users\Code Architect\documents\visual studio 2010\Projects\HRSServer\HLibrary\obj\Debug\HLibrary.pdb
+E:\Hotel Reservation System\HRSServer\HLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Hotel Reservation System\HRSServer\HLibrary\obj\Debug\HLibrary.dll
+E:\Hotel Reservation System\HRSServer\HLibrary\obj\Debug\HLibrary.pdb
+E:\Hotel Reservation System\HRSServer\HLibrary\bin\Debug\HLibrary.dll
+E:\Hotel Reservation System\HRSServer\HLibrary\bin\Debug\HLibrary.pdb
+E:\Hotel Reservation System\HRSServer\HLibrary\bin\Debug\Iesi.Collections.pdb
+E:\Hotel Reservation System\HRSServer\HLibrary\bin\Debug\Iesi.Collections.xml
+E:\Hotel Reservation System\HRSServer\HLibrary\bin\Debug\NHibernate.pdb
+E:\Hotel Reservation System\HRSServer\HLibrary\bin\Debug\NHibernate.xml
